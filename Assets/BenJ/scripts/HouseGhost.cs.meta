@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ca133671bbe16fe4da0bd3ba96285573
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlacementPoint: {instanceID: 0}
+  - perimeter: {instanceID: 0}
+  - goodPlace: {fileID: 2100000, guid: 7a957889ff36cc94996e1aade35aeb83, type: 2}
+  - badPlace: {fileID: 2100000, guid: aaa218ecfcc462c4480f4562896faa0c, type: 2}
+  - Notice: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
